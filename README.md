@@ -1,0 +1,1 @@
+This web application is designed to assess the functional stability of an extracranial-intracranial anastomosis. Risk assessment is based on the calculation of the blood flow pattern in the anastomosis, taking into account the Reynolds number, shear stress, and blood volume flow rate.
